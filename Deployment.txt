@@ -1,1 +1,1 @@
-Deployed on: tiny.cc/timer-app-ak
+Deployed on: https://ak-timer-app.netlify.app/
